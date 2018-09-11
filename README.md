@@ -2,5 +2,4 @@
 My First Repository
 
 
-Hi All
-Thi is my first trial on github .
+Adding another branch under README as VERSION 1
